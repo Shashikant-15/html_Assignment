@@ -1,0 +1,114 @@
+html {
+      scroll-behavior: smooth;
+    }
+
+    html, body {
+        margin: 0;
+        padding:  0;
+        width: 100;
+        height: 100;
+        font-family: Poppins !important;
+        scroll-behavior: smooth;
+        }
+    ol a:link {
+            color: blue;
+            background-color: transparent;
+            text-decoration-style: solid;
+        }
+        ol a:visited {
+            color: red;
+            background-color: transparent;
+            text-decoration-style: dashed;
+        }
+        ol a:hover {
+		    color: purple;
+            background-color: transparent;
+            text-decoration-style: initial;
+        }
+		ol.a:active {
+		    color: yellow;
+			background-color: transparent;
+			text-decoration-style; wavy;
+
+		}
+	.center {
+	  display: inline-block;
+  	  margin-left:  initial;
+  	  margin-right: auto;
+  	  width: 60%;
+	  height: 70%;
+	}
+
+
+	 .footer-links a
+     {
+       color:#737373
+     }
+     .footer-links a:active,.footer-links a:focus,.footer-links a:hover
+     {}
+    color:#3366cc;
+    text-decoration:none;
+   }
+
+
+   nav ul {
+      display: flex;
+      margin: 0;
+      padding: 0;
+    }
+
+
+    .navbar-nav .nav-item {display: inline-block;}
+    .navbar-nav .nav-item:hover {background: ##92a8d1;}
+    .navbar-nav .nav-item:hover ul {display: block;}
+    .navbar-nav .nav-item ul {
+      position: absolute;
+      width: 250px;
+      display: initial;
+    }
+
+    .navbar{
+        padding:0rem;
+        padding-left:2rem;
+    }
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+
+
+      td, th {
+          text-align: left;
+          padding: 9px;d, th {
+
+           text-align: left;
+           padding: 9px;
+
+      .box{
+           margin-left: 2%;
+
+
+ .site-footer
+ {
+    padding: 45px 0 20px;
+    font-size: 15px;
+    line-height: 24px;
+    background-color: black!important;
+    color: white!important;
+}
+
+
+ @media (max-width:767px)
+ {
+   .social-icons li.title
+   {
+     display:block;
+     margin-right:0;
+     font-weight:600
+   }
+
+ }
+
+
+    .navbar-nav .nav-item ul nav-item a {display:block !important;}
+    .navbar-nav .nav-item ul nav-item:hover {background: #5555;}
